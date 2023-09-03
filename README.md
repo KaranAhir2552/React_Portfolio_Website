@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # React JS Portfolio Website
 
-[🔗Live Demo🔗](https://rtaghizadev.vercel.app/)
+[🔗Live Demo🔗](https://react-portfolio-website-lime-nine.vercel.app/)
 
-![Protfolio Website](src/assets/Portfolio%20preview.png)
+![Protfolio Website](src/assets/ProjectPreview.png)
 
 <div align="center">
 
@@ -23,7 +22,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/Rasif-Taghizada/My-portfolio"</a>Project</td>
+            <td><a href="https://github.com/Karanahir2552"</a>Project</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/Rasif-Taghizada/My-portfolio?style=flat&logo=github"/></td>
              <td><img alt="Forks" src="https://img.shields.io/github/forks/Rasif-Taghizada/My-portfolio?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/Rasif-Taghizada/My-portfolio?style=flat&logo=github"/></td>
@@ -64,7 +63,3 @@ Feel free to contribute to this repo.
 
 ### Show some ❤️&nbsp; by giving the star :star: to this repository!!
 <h1 align=center> 🧠 Happy Hacking 🧠 </h1>
-=======
-# React_Portfolio_Website
-I developed this portfolio website using react Js framework. to see website visit : 
->>>>>>> origin/main
