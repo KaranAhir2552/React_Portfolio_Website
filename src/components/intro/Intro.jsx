@@ -24,7 +24,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>6 month</small>
+              <small>2 Years</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -33,7 +33,7 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            6 month experienced Front End Developer with hands-on experience in
+            2 years experienced Front End Developer with hands-on experience in
             identifying web-based user interactions along with designing and
             implementing highly-responsive user interface components by
             deploying React concepts. Proficient in translating designs and
